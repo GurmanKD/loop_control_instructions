@@ -31,3 +31,10 @@ output of q6
 output of q1
 ![Screenshot (21)](https://user-images.githubusercontent.com/109476637/204302948-3d9b2d2b-0fd5-40b4-b738-de418f6c4ed8.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/109476637/204302987-4c878e17-e4e6-4b1d-b176-01758da5d52a.png)
+
+
+
+
+
+output of q2
+![Screenshot (23)](https://user-images.githubusercontent.com/109476637/204336983-87e155f8-95df-4d4a-a024-a7a4391c3357.png)
