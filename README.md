@@ -8,3 +8,9 @@ output of q4
 
 output of q3
 ![Screenshot (17)](https://user-images.githubusercontent.com/109476637/204261913-ba7bc385-0a6a-4ecc-8d55-1f723a124a25.png)
+
+
+
+
+output of q5
+![Screenshot (18)](https://user-images.githubusercontent.com/109476637/204290511-1172ad77-96a1-486e-8451-5382b7f0b02a.png)
